@@ -1,0 +1,9 @@
+{
+	"variants":
+	[
+		{
+			"name": "result_in_console",
+			"shell_cmd": "php $file",
+		},
+    ]
+}

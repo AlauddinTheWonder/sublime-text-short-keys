@@ -1,0 +1,22 @@
+[
+	{       
+    	"command": "copy"
+	},
+	{
+    	"args":
+		{
+			"characters": "<?php echo "
+		},
+		"command": "insert"
+	},
+	{       
+    	"command": "paste"
+	},
+	{
+    	"args":
+		{
+			"characters": " ?>"
+		},
+		"command": "insert"
+	},
+]

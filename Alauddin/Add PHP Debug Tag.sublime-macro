@@ -1,0 +1,22 @@
+[
+	{       
+    	"command": "copy"
+	},
+	{
+    	"args":
+		{
+			"characters": "<?php echo '<pre>'; print_r("
+		},
+		"command": "insert"
+	},
+	{       
+    	"command": "paste"
+	},
+	{
+    	"args":
+		{
+			"characters": "); echo '</pre>'; ?>"
+		},
+		"command": "insert"
+	},
+]
